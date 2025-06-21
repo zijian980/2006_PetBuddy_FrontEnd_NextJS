@@ -7,7 +7,7 @@ Welcome to the official repository for NTU SC2006 Software Engineering group pro
 <p align="center">
     <a href="https://github.com/softwarelab3/2006-SCS4-59/tree/main/lab5/Application%20Code/Frontend">Frontend</a>
     |
-    <a href="https://github.com/softwarelab3/2006-SCS4-59/tree/main/lab5/Application%20Code/Backend">Backend</a>
+    <a href="https://github.com/zijian980/SC2006-PetBuddy-BackEnd">Backend</a>
     |
     <a href="https://youtu.be/L2OwSFCVsoI">Demo Video</a>
 </p>
