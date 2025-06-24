@@ -36,7 +36,7 @@ PetBuddy is the ultimate app for connecting pet owners with trusted, professiona
 <br>
 
 1. [Key Boundary and Control Classes](https://github.com/zijian980/2006_PetBuddy_FrontEnd_NextJS/blob/main/Supporting-documents/keyboundaryandcontrollclass.jpg)
-2. [Use Case Diagram](https://github.com/softwarelab3/2006-SCS4-59/blob/main/lab5/Use%20Case%20Diagram.jpg)
+2. [Use Case Diagram](https://github.com/zijian980/2006_PetBuddy_FrontEnd_NextJS/blob/main/Supporting-documents/usecase.jpg)
 3. [Architecture Diagram](https://github.com/softwarelab3/2006-SCS4-59/blob/main/lab5/System%20Architecture.png)
 4. [Class Diagram](https://github.com/zijian980/2006_PetBuddy_FrontEnd_NextJS/blob/main/Supporting-documents/classdiagram.jpg)
 5. [Dialog Map](https://github.com/zijian980/2006_PetBuddy_FrontEnd_NextJS/blob/main/Supporting-documents/dialogmap.jpg)
