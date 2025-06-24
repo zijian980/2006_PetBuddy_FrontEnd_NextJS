@@ -26,7 +26,7 @@ PetBuddy is the ultimate app for connecting pet owners with trusted, professiona
 <summary>Supporting Documentations</summary>
 <br>
 
-1. [Software Requirements Specification](https://github.com/softwarelab3/2006-SCS4-59/blob/main/lab5/Software%20Requirements%20Specification.pdf)
+1. [Software Requirements Specification](https://github.com/zijian980/2006_PetBuddy_FrontEnd_NextJS/blob/main/Supporting-documents/Software%20Requirements%20Specification.pdf)
 2. [User Interface Mockups](https://www.figma.com/design/aaBK5z7ghgqrfzBhoNjtxA/SC2006-UI-Mockup?node-id=58-2822&t=bCfb7Z1cK7qFdkKf-1)
 
 </details>
@@ -35,12 +35,11 @@ PetBuddy is the ultimate app for connecting pet owners with trusted, professiona
 <summary>Diagrams</summary>
 <br>
 
-1. [Key Boundary and Control Classes](https://github.com/softwarelab3/2006-SCS4-59/blob/main/lab5/Key%20Boundary%20and%20Control%20Classes.jpg)
+1. [Key Boundary and Control Classes](https://github.com/zijian980/2006_PetBuddy_FrontEnd_NextJS/blob/main/Supporting-documents/keyboundaryandcontrollclass.jpg)
 2. [Use Case Diagram](https://github.com/softwarelab3/2006-SCS4-59/blob/main/lab5/Use%20Case%20Diagram.jpg)
 3. [Architecture Diagram](https://github.com/softwarelab3/2006-SCS4-59/blob/main/lab5/System%20Architecture.png)
-4. [Class Diagram](https://github.com/softwarelab3/2006-SCS4-59/blob/main/lab5/Class%20Diagram.png)
-5. [Dialog Map](https://github.com/softwarelab3/2006-SCS4-59/blob/main/lab5/Initial%20Dialog%20Map.png)
-6. [Sequence Diagrams](https://github.com/softwarelab3/2006-SCS4-59/tree/main/lab5/Sequential%20Diagram)
+4. [Class Diagram](https://github.com/zijian980/2006_PetBuddy_FrontEnd_NextJS/blob/main/Supporting-documents/classdiagram.jpg)
+5. [Dialog Map](https://github.com/zijian980/2006_PetBuddy_FrontEnd_NextJS/blob/main/Supporting-documents/dialogmap.jpg)
 
 </details>
 
